@@ -2,6 +2,8 @@
 - 👀 I am currently working on Genetic Algorithm based models like NSGA II and MOPSO.
 - 🌱 I have previously worked on Java based frameowrks like Spring Boot and Maven.
 - ☁️ I am very passionate about working on cloud and cloud related technologies with experience of working in GCP(Google Cloud Platform), Azure and AWS(Amazon Web Services)
+- 🏆 NPTEL Domain certified(Programming) 👉🏻👉🏻 https://drive.google.com/file/d/1BLjEzIU6oKx22IvOEQ5GRvEVvdkdPZPv/view?usp=sharing
+- 🏆 NPTEL Discipline Star (Computer Science and Engineering)👉🏻👉🏻https://drive.google.com/file/d/1BWsBjZoCuYPyYlkFDogYLEis8ARpEba1/view?usp=sharing
 - 💞️ I’m looking forward to Internships based on cloud and cloud migration and 
 - 📫 Connect with me on https://www.linkedin.com/in/shankha-mukherjee-a72a3510b/
 - 📸 I am passionate about photography 👉🏻👉🏻👉🏻 https://instagram.com/lazy_leo1404?igshid=YmMyMTA2M2Y=

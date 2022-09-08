@@ -1,3 +1,4 @@
+💫 ABOUT
 - 👋 Hi, I’m Shankha Mukherjee🙋🏻‍♂️ currently pursuing BTech in Computer Science and Engineering from RCC Institute of Information Technology, Kolkata.
 - 👀 I am currently working on Genetic Algorithm based models like NSGA II and MOPSO.
 - 🌱 I have previously worked on Java based frameowrks like Spring Boot and Maven.

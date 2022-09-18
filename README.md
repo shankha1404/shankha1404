@@ -1,3 +1,4 @@
+[![MasterHead](https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)](https://rishavchanda.io)
 💫 ABOUT
 - 👋 Hi, I’m Shankha Mukherjee🙋🏻‍♂️ currently pursuing BTech in Computer Science and Engineering from RCC Institute of Information Technology, Kolkata.
 - 👀 I am currently working on Genetic Algorithm based models like NSGA II and MOPSO.

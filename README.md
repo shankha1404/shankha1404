@@ -8,7 +8,8 @@
 - 🏆 NPTEL Domain certified(Programming) 👉🏻👉🏻 https://drive.google.com/file/d/1BLjEzIU6oKx22IvOEQ5GRvEVvdkdPZPv/view?usp=sharing
 - 🏆 NPTEL Discipline Star (Computer Science and Engineering)👉🏻👉🏻https://drive.google.com/file/d/1BWsBjZoCuYPyYlkFDogYLEis8ARpEba1/view?usp=sharing
 - 💞️ I’m looking forward to Internships based on cloud and cloud migration and 
-- 📫 Connect with me on https://www.linkedin.com/in/shankha-mukherjee-a72a3510b/
+- 📫 Connect with me on <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shankha-mukherjee-a72a3510b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shankha-mukherjee-a72a3510b?trk=profile-badge">SHANKHA MUKHERJEE</a></div>
+              
 - 📸 I am passionate about photography 👉🏻👉🏻👉🏻 https://instagram.com/lazy_leo1404?igshid=YmMyMTA2M2Y=
 - 🌭🍔🧇🍕🥪🫓🥘🍝🍤🍧 Blogging page 👉🏻👉🏻👉🏻 https://instagram.com/plate_2_pet?igshid=YmMyMTA2M2Y=
 

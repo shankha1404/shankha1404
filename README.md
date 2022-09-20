@@ -38,5 +38,8 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shankha1404&show_icons=true&locale=en&layout=compact" alt="shankha1404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shankha1404&" alt="shankha1404" /></p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shankha-mukherjee-a72a3510b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shankha-mukherjee-a72a3510b?trk=profile-badge">SHANKHA MUKHERJEE</a></div>
+              
 
 
